@@ -41,7 +41,8 @@ Install dependencies:
 pip install pycryptodome pillow
 
 Run Simulator
-python ransarnav.py
+remove comment (""") from ranskorragg.py manually
+python ranskorragg.py
 
 Decrypt Files
 
